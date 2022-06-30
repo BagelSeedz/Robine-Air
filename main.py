@@ -1,5 +1,6 @@
 # https://ro.py.jmksite.dev/index.html
 # https://discordpy.readthedocs.io/en/latest/api.html
+# omg why did I put this all in one file
 
 import discord
 from discord.ext import commands
