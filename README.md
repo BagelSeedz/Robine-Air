@@ -5,3 +5,5 @@
 - Butttt if you want to see my progress when I was an itty bitty upcoming Bot Developer, here's a perfectly chaotic example for you!
 
 - This client refused to pay me sooo yay for educational dev experience!
+
+- "Failure is simply the opportunity to begin again. This time more intelligently." - Henry Ford
