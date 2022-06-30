@@ -2289,4 +2289,4 @@ async def on_member_join(member):
         return
 
 
-discordClient.run("ODg3ODIwNjI3NTY4OTE4NTM5.YUJtZA.CTqRwM7mVpotuos6nsuzsaIDYGw")
+discordClient.run("REDACTED")
